@@ -3,19 +3,19 @@ ERD for interview. thanks to Angga Rahagiyanto
 
 salah satu contoh ERD, berikut penjabarannya :
 
-User mengkodekan produk (hubungan 1 ke banyak).
-User dapat memproses beberapa invoice (hubungan 1 ke banyak).
-User dapat memproses transaksi penerimaan (hubungan 1 ke banyak).
-User dapat memproses transaksi pesanan pembelian (hubungan 1 ke banyak).
-produk termasuk dalam kategori tertentu (hubungan 1 ke 1).
-produk memiliki beberapa unit produk (hubungan 1 ke banyak).
-produk memiliki beberapa transaksi penerimaan (hubungan 1 ke banyak).
-produk juga termasuk dalam transaksi pesanan pembelian (hubungan 1 ke banyak).
-pesanan pembelian akan diteruskan ke pemasok (hubungan 1 ke banyak).
-Pemasok akan memasok produk yang diminta (hubungan 1 ke banyak).
-produk termasuk dalam beberapa transaksi penjualan (hubungan 1 ke banyak).
-penjualan menghasilkan Invoice (hubungan 1 ke banyak).
-Invoice diberikan kepada pelanggan (hubungan 1 ke banyak). 
+- User mengkodekan produk (hubungan 1 ke banyak).
+- User dapat memproses beberapa invoice (hubungan 1 ke banyak).
+- User dapat memproses transaksi penerimaan (hubungan 1 ke banyak).
+- User dapat memproses transaksi pesanan pembelian (hubungan 1 ke banyak).
+- produk termasuk dalam kategori tertentu (hubungan 1 ke 1).
+- produk memiliki beberapa unit produk (hubungan 1 ke banyak).
+- produk memiliki beberapa transaksi penerimaan (hubungan 1 ke banyak).
+- produk juga termasuk dalam transaksi pesanan pembelian (hubungan 1 ke banyak).
+- pesanan pembelian akan diteruskan ke pemasok (hubungan 1 ke banyak).
+- Pemasok akan memasok produk yang diminta (hubungan 1 ke banyak).
+- produk termasuk dalam beberapa transaksi penjualan (hubungan 1 ke banyak).
+- penjualan menghasilkan Invoice (hubungan 1 ke banyak).
+- Invoice diberikan kepada pelanggan (hubungan 1 ke banyak). 
 
 
 =========================================
