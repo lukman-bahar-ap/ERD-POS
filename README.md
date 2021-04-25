@@ -1,5 +1,5 @@
 # ERD-POS
-ERD for interview. thanks to Angga Rahagiyanto
+ERD by Angga Rahagiyanto
 
 ![image](https://user-images.githubusercontent.com/64136775/115983485-8730d280-a5cb-11eb-9fd9-0268756f18cf.png)
 
