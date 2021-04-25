@@ -17,7 +17,10 @@ produk termasuk dalam beberapa transaksi penjualan (hubungan 1 ke banyak).
 penjualan menghasilkan Invoice (hubungan 1 ke banyak).
 Invoice diberikan kepada pelanggan (hubungan 1 ke banyak). 
 
-==================================================================================
+
+=========================================
+
+
 Entitas Produk memiliki atribut berikut:
     ID Produk - primary key diwakili dengan garis bawah
     Kode
